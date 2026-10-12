@@ -104,7 +104,7 @@ def description_card():
             html.H3("Pronóstico de producción energética - Austria"),
             html.Div(
                 id="intro",
-                children="Esta herramienta contiene información sobre la demanda energética total en Austria cada hora según lo públicado en ENTSO-E Data Portal. Adicionalmente, permite realizar pronósticos hasta 5 dias en el futuro."
+                children="Esta herramienta contiene información sobre la demanda energética total en Austria cada hora según lo públicado en ENTSO-E Data Portal. Adicionalmente, permite realizar pronósticos hasta 5 dias en el futuro. Aporte de Libardo Navas"
             ),
         ],
     )
